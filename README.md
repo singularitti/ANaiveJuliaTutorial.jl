@@ -7,6 +7,7 @@
 [![Codecov](https://codecov.io/gh/singularitti/ANaiveJuliaTutorial.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/singularitti/ANaiveJuliaTutorial.jl)
 [![Coveralls](https://coveralls.io/repos/github/singularitti/ANaiveJuliaTutorial.jl/badge.svg?branch=master)](https://coveralls.io/github/singularitti/ANaiveJuliaTutorial.jl?branch=master)
 [![Build Status](https://api.cirrus-ci.com/github/singularitti/ANaiveJuliaTutorial.jl.svg)](https://cirrus-ci.com/github/singularitti/ANaiveJuliaTutorial.jl)
+[![GitHub license](https://img.shields.io/github/license/singularitti/ANaiveJuliaTutorial.jl)](https://github.com/singularitti/ANaiveJuliaTutorial.jl/blob/master/LICENSE)
 
 ## Installation
 
